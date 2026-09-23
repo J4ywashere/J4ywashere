@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less." — *C. S. Lewis*
+> "There are forces in life working for you and against you. One must distinguish the beneficial forces from the malevolent ones and choose correctly between them." — *Abdul Kalam*
 <!-- QUOTE_END -->
