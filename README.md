@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "There are forces in life working for you and against you. One must distinguish the beneficial forces from the malevolent ones and choose correctly between them." — *Abdul Kalam*
+> "The man with no imagination has no wings." — *Muhammad Ali*
 <!-- QUOTE_END -->
