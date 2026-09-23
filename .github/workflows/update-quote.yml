@@ -1,7 +1,7 @@
 name: Update Profile Quote
 
 on:
-schedule:
+  schedule:
     # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
   # Allows students to manually test and trigger the action from GitHub CLI / UI
