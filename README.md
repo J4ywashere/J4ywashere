@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-"Stay hungry, stay foolish." - Steve Jobs
+> "Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less." — *C. S. Lewis*
 <!-- QUOTE_END -->
