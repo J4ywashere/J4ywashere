@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "I Wish I Could Give You A Taste Of The Burning Fire Of Love. There Is A Fire Blazing Inside Of Me. If I Cry About It, Or If I Don't, The Fire Is At Work, Night And Day." — *Rumi*
+> "Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge." — *Rumi*
 <!-- QUOTE_END -->
