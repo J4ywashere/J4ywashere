@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "When wisdom reaches the acme of perfection, it will suppress the vicious instincts and injurious desires." — *Ali ibn Abi Talib (R.A)*
+> "The Way To Get Started Is To Quit Talking And Begin Doing." — *Walt Disney*
 <!-- QUOTE_END -->
