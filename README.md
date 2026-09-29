@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "The Way To Get Started Is To Quit Talking And Begin Doing." — *Walt Disney*
+> "Whoever listens to slander is himself a slanderer." — *Muhammad Ali*
 <!-- QUOTE_END -->
