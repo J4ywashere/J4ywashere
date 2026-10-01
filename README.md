@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "God gave me this illness to remind me that I'm not Number One; He is." — *Muhammad Ali*
+> "All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence." — *Abdul Kalam*
 <!-- QUOTE_END -->
