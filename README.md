@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence." — *Abdul Kalam*
+> "There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes." — *Rumi*
 <!-- QUOTE_END -->
