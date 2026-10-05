@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "I run on the road long before I dance under the lights." — *Muhammad Ali*
+> "Don't get lost in your pain, know that one day your pain will become your cure." — *Rumi*
 <!-- QUOTE_END -->
