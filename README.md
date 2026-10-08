@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Age is whatever you think it is. You are as old as you think you are." — *Muhammad Ali*
+> "Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet." — *Rumi*
 <!-- QUOTE_END -->
