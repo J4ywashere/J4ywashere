@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet." — *Rumi*
+> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — *Benjamin Franklin*
 <!-- QUOTE_END -->
