@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — *Benjamin Franklin*
+> "Speak any language, Turkish, Greek, Persian, Arabic, but always speak with love." — *Rumi*
 <!-- QUOTE_END -->
