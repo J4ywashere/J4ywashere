@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "When I am silent, I fall into the place where everything is music." — *Rumi*
+> "The Way To Get Started Is To Quit Talking And Begin Doing." — *Walt Disney*
 <!-- QUOTE_END -->
