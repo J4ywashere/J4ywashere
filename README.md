@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "The Way To Get Started Is To Quit Talking And Begin Doing." — *Walt Disney*
+> "Do not be like those on whom advice has no effect and who require punishment to correct themselves." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
