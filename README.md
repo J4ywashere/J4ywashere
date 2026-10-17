@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Believe You Can And You'Re Halfway There." — *Theodore Roosevelt*
+> "Your longing for ME is my message to you, All your attempts to reach ME, Are in reality MY attempts to reach you." — *Rumi*
 <!-- QUOTE_END -->
