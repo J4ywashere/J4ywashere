@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Your longing for ME is my message to you, All your attempts to reach ME, Are in reality MY attempts to reach you." — *Rumi*
+> "God Does Not Play Dice." — *Albert Einstein*
 <!-- QUOTE_END -->
