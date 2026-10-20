@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Never, Never, Never Give Up." — *Winston Churchill*
+> "Cursed Is The Man Who Dies, But The Evil Done By Him Survives." — *Abu Bakr*
 <!-- QUOTE_END -->
