@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Be Faithful In Small Things Because It Is In Them That Your Strength Lies." — *Mother Teresa*
+> "Women are not a garment you wear and undress however you like. They are honored and have their rights." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
