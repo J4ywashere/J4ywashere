@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift." — *Albert Einstein*
+> "When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps." — *Confucius*
 <!-- QUOTE_END -->
