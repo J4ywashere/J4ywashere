@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "We are born of love. Love is our mother." — *Rumi*
+> "Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others." — *John F. Kennedy*
 <!-- QUOTE_END -->
