@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "In the matter of justice, all should be equal in your eyes." — *Abu Bakr (R.A)*
+> "A True friend is one who sees a fault, gives you advice and who defends you in your absence." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
