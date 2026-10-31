@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Look Deep Into Nature, And Then You Will Understand Everything Better." — *Albert Einstein*
+> "I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him." — *Abraham Lincoln*
 <!-- QUOTE_END -->
