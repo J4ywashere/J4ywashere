@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him." — *Abraham Lincoln*
+> "I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know?" — *Ernest Hemingway*
 <!-- QUOTE_END -->
