@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know?" — *Ernest Hemingway*
+> "George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie." — *Mark Twain*
 <!-- QUOTE_END -->
