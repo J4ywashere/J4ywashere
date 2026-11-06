@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'" — *Martin Luther King  Jr.*
+> "God Does Not Play Dice." — *Albert Einstein*
 <!-- QUOTE_END -->
