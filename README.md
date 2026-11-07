@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "God Does Not Play Dice." — *Albert Einstein*
+> "This is a subtle truth. Whatever you love, you are." — *Rumi*
 <!-- QUOTE_END -->
