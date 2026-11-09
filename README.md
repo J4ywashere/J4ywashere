@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people." — *Abu Bakr (R.A)*
+> "The Law Is Reason, Free From Passion." — *Aristotle*
 <!-- QUOTE_END -->
