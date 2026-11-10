@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "The Law Is Reason, Free From Passion." — *Aristotle*
+> "A Lot Of People Quit Looking For Work As Soon As They Find A Job." — *Zig Ziglar*
 <!-- QUOTE_END -->
