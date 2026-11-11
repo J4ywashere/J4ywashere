@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "A Lot Of People Quit Looking For Work As Soon As They Find A Job." — *Zig Ziglar*
+> "A thousand half-loves must be forsaken to take one whole heart home." — *Rumi*
 <!-- QUOTE_END -->
