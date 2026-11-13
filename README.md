@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Cursed Is The Man Who Dies, But The Evil Done By Him Survives." — *Abu Bakr*
+> "Don'T Be Distracted By Criticism. Remember ~ The Only Taste Of Success Some People Have Is When They Take A Bite Out Of You." — *Zig Ziglar*
 <!-- QUOTE_END -->
