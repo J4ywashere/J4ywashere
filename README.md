@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Don'T Be Distracted By Criticism. Remember ~ The Only Taste Of Success Some People Have Is When They Take A Bite Out Of You." — *Zig Ziglar*
+> "What Can You Do To Promote World Peace? Go Home And Love Your Family." — *Mother Teresa*
 <!-- QUOTE_END -->
