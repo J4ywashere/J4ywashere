@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "What Can You Do To Promote World Peace? Go Home And Love Your Family." — *Mother Teresa*
+> "Conduct, Which Involves A Decision Of The Ultimate Fate Of The Agent Cannot Be Based On Illusions." — *Muhammed Iqbal*
 <!-- QUOTE_END -->
