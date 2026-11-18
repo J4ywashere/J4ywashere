@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "I Like Not Fair Terms And A Villain'S Mind." — *William Shakespeare*
+> "Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
