@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." — *Abu Bakr (R.A)*
+> "Fear only the will of God and you will have no cause to fear anyone else." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
