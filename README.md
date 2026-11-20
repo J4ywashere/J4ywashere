@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Fear only the will of God and you will have no cause to fear anyone else." — *Ali ibn Abi Talib (R.A)*
+> "As a child of God, I am greater than anything that can happen to me." — *Abdul Kalam*
 <!-- QUOTE_END -->
