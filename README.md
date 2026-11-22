@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Nations Are Born In The Hearts Of Poets, They Prosper And Die In The Hands Of Politicians." — *Muhammad Iqbal*
+> "My toughest opponent has always been me." — *Muhammad Ali*
 <!-- QUOTE_END -->
