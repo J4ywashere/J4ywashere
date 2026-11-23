@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "My toughest opponent has always been me." — *Muhammad Ali*
+> "Take account of your deeds before they are taken account of." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
