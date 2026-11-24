@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Take account of your deeds before they are taken account of." — *Umar ibn Al-Khattāb (R.A)*
+> "The art of knowing is knowing what to ignore." — *Rumi*
 <!-- QUOTE_END -->
