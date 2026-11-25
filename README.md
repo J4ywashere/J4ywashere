@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "The art of knowing is knowing what to ignore." — *Rumi*
+> "Wherever You Go, Go With All Your Heart." — *Confucius*
 <!-- QUOTE_END -->
