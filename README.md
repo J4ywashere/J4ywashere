@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Too Many Have Dispensed With Generosity In Order To Practice Charity." — *Albert Camus*
+> "Even The Darkest Night Will End And The Sun Will Rise." — *Victor Hugo*
 <!-- QUOTE_END -->
