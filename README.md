@@ -4,5 +4,5 @@ Hi there, I'm Jay Liggens
 #!echo "Building, breaking, and securing networks & systems."
 ### Daily Tech Quotes
 <!-- QUOTE_START -->
-> "Even The Darkest Night Will End And The Sun Will Rise." — *Victor Hugo*
+> "Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend." — *Rumi*
 <!-- QUOTE_END -->
